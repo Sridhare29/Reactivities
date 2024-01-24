@@ -1,0 +1,15 @@
+/Users/sridharelumalai/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/sridharelumalai/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/sridharelumalai/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/sridharelumalai/Projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/sridharelumalai/Projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
