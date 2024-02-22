@@ -8,6 +8,7 @@
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.sourcelink.json
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
 /Users/sridharelumalai/Projects/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll

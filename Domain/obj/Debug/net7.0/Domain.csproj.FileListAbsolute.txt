@@ -6,6 +6,7 @@
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.sourcelink.json
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/sridharelumalai/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
